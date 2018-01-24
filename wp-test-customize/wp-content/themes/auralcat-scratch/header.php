@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8"/>
       <title><?php wp_title(); ?></title>
-      <link href="<?php bloginfo( 'stylesheet_url' ); ?>" rel="stylesheet"/>
+      <link href="<?php bloginfo( 'stylesheet_url' ); ?>" rel="stylesheet">
 
       <?php wp_head(); ?>
   </head>

@@ -16,3 +16,19 @@ body {
     font-size: 15px;
     font-family: Helvetica
 }
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    height: 1043px;
+    background: url(assets/images/bg-image.jpg) center top;
+}
+
+/* Wrapper inside the header */
+.wrap {
+    margin: 0 auto;
+    width: 960px;
+
+}

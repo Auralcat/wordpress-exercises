@@ -9,3 +9,8 @@
       <?php wp_head(); ?>
   </head>
   <body>
+      <header>
+        <div class="wrap">
+          <h2><a href="<?php echo site_url(); ?>" title="<?php bloginfo('name'); ?>"> AURALCAT</a></h2>
+        </div>
+      </header>

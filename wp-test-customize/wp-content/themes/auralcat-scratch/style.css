@@ -24,6 +24,11 @@ p {
 header {
     height: 1043px;
     background: url(assets/images/bg-image.jpg) center top;
+    padding: 10px 0;
+}
+
+header h1 {
+    margin: 0
 }
 
 header h1 a {

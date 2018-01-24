@@ -26,6 +26,11 @@ header {
     background: url(assets/images/bg-image.jpg) center top;
 }
 
+header h1 a {
+    color: #c4cb01;
+    text-decoration: none;
+}
+
 /* Wrapper inside the header */
 .wrap {
     margin: 0 auto;
